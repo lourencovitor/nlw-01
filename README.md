@@ -23,9 +23,9 @@ That aims to connect people to companies that collect specific waste such as lig
 
 This project was developed with the following technologies:
 
-- [https://nodejs.org/en/][Node.js]
-- [https://www.typescriptlang.org/][TypeScript]
-- [https://en.reactjs.org/][React]
+- [Node.js](https://nodejs.org/en/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [React](https://en.reactjs.org/)
 
 ## 🔖 Layout
 
